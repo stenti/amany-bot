@@ -23,11 +23,16 @@ Lazer cut components:
 - motor brace (5mm) (brace.dx)
 
 Other:
+- 5.5 x 2.5mm DC Power Connector
 - 30mm f-f standoffs (x12)
 - 10mm m-f stansoffs (x4)
 - m3 screws
   - 15mm
   - 6mm (standard for standoffs)
- 
+- usbA to usbB cable for Jetson <-> arduino coms
+
+
+![alt text]([https://github.com/stenti/amany-bot/blob/main/circuit.svg?raw=true)
+
 Ref:
 https://wiki.dfrobot.com/Micro_DC_Motor_with_Encoder-SJ01_SKU__FIT0450
