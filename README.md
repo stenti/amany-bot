@@ -1,6 +1,6 @@
 **amany-bot**
 
-![robot](https://github.com/stenti/amany-bot/blob/main/amany_bot.jpg | width=100)
+![robot](https://github.com/stenti/amany-bot/blob/main/amany_bot.jpg)
 
 Motors etc:
 - x2 TT Motor with Encoder (6V 160RPM 120:1)
@@ -35,7 +35,7 @@ Other:
 - usbA to usbB cable for Jetson <-> arduino coms
 
 
-![circuit](https://github.com/stenti/amany-bot/blob/main/circuit.png | width=100)
+![circuit](https://github.com/stenti/amany-bot/blob/main/circuit.png)
 
 Ref:
 https://wiki.dfrobot.com/Micro_DC_Motor_with_Encoder-SJ01_SKU__FIT0450
