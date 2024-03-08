@@ -1,4 +1,5 @@
-**# amany-bot
+**# amany-bot**
+![robot](https://github.com/stenti/amany-bot/blob/main/amany_bot.jpg)
 
 Motors etc:
 - x2 TT Motor with Encoder (6V 160RPM 120:1)
@@ -23,6 +24,7 @@ Lazer cut components:
 - motor brace (5mm) (brace.dx)
 
 Other:
+- pixpro 4k 360
 - 5.5 x 2.5mm DC Power Connector
 - 30mm f-f standoffs (x12)
 - 10mm m-f stansoffs (x4)
