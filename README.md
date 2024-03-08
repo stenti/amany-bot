@@ -32,7 +32,7 @@ Other:
 - usbA to usbB cable for Jetson <-> arduino coms
 
 
-![circuit]([https://github.com/stenti/amany-bot/blob/main/circuit.png])
+![circuit](https://github.com/stenti/amany-bot/blob/main/circuit.png)
 
 Ref:
 https://wiki.dfrobot.com/Micro_DC_Motor_with_Encoder-SJ01_SKU__FIT0450
