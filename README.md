@@ -1,5 +1,6 @@
-**# amany-bot**
-![robot](https://github.com/stenti/amany-bot/blob/main/amany_bot.jpg)
+**amany-bot**
+
+![robot](https://github.com/stenti/amany-bot/blob/main/amany_bot.jpg | width=100)
 
 Motors etc:
 - x2 TT Motor with Encoder (6V 160RPM 120:1)
@@ -20,8 +21,8 @@ Compute components used:
 - pixpro mount (pixpro.stl)
 
 Lazer cut components: 
-- robot chassis (3mm) (chassis.dx)
-- motor brace (5mm) (brace.dx)
+- robot chassis (3mm) (chassis.dxf)
+- motor brace (5mm) (brace.dxf)
 
 Other:
 - pixpro 4k 360
@@ -34,7 +35,7 @@ Other:
 - usbA to usbB cable for Jetson <-> arduino coms
 
 
-![circuit](https://github.com/stenti/amany-bot/blob/main/circuit.png)
+![circuit](https://github.com/stenti/amany-bot/blob/main/circuit.png | width=100)
 
 Ref:
 https://wiki.dfrobot.com/Micro_DC_Motor_with_Encoder-SJ01_SKU__FIT0450
